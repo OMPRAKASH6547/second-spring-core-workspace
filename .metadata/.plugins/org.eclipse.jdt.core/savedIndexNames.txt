@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+D:\Jspider\second-spring-core-workspace\.metadata\.plugins\org.eclipse.jdt.core
+3613262590.index
